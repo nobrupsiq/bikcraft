@@ -20,7 +20,7 @@ O projeto Bikcraft consiste de um website de uma fábrica de bicicletas fabricad
 - Cyberduck
 - etc...
 
-**Protótipo**: (Feito com o Figma). (![prototipo](https://user-images.githubusercontent.com/101802601/176980860-d808340e-2b01-4bcd-b28a-123b06001db6.png)
+**Protótipo**: (Feito com o Figma). ![prototipo](https://user-images.githubusercontent.com/101802601/176980860-d808340e-2b01-4bcd-b28a-123b06001db6.png)
 
 
 ### O que eu aprendi?
