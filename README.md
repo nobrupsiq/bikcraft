@@ -1,6 +1,4 @@
-# nobrupsiq.github.io/bikcraft/
-
-# #1 Bikcraft
+# #1 Bikcraft https://nobrupsiq.github.io/bikcraft/
 
 
 Este é um projeto desenvolvido durante o curso de HTML e CSS da Origamid.
